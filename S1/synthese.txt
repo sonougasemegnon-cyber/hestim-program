@@ -1,0 +1,22 @@
+Comment l'intelligence artificielle transforme-t-elle le domaine de la cybersécurité ?
+
+
+L'intelligence artificielle (IA) occupe aujourd'hui une place importante dans le domaine de la cybersécurité. Elle transforme les méthodes de protection des systèmes informatiques en permettant de détecter plus rapidement les menaces et d'améliorer la prévention des cyberattaques.
+
+Grâce à sa capacité à analyser de grandes quantités de données, l'IA peut identifier des comportements inhabituels, repérer des tentatives d'intrusion et détecter certains logiciels malveillants. Elle aide également les spécialistes à surveiller les réseaux, à identifier les failles de sécurité et à réagir plus rapidement face aux incidents informatiques.
+
+Cependant, l'intelligence artificielle représente aussi une nouvelle source de risques. Les cybercriminels peuvent l'utiliser pour rendre leurs tentatives de fraude plus convaincantes, notamment à travers des messages d'hameçonnage personnalisés et des contenus trompeurs. Elle peut également faciliter l'automatisation de certaines cyberattaques.
+
+Par ailleurs, les systèmes d'IA ne sont pas infaillibles : ils peuvent produire de fausses alertes, commettre des erreurs ou ne pas reconnaître certaines menaces nouvelles. C'est pourquoi leur utilisation doit être accompagnée d'une surveillance humaine et de mesures de sécurité adaptées.
+
+En conclusion, l'intelligence artificielle constitue un outil majeur pour renforcer la cybersécurité, mais elle peut également être exploitée à des fins malveillantes. Son efficacité dépend donc de son utilisation responsable et de la collaboration entre les technologies intelligentes et les experts en sécurité informatique.
+
+
+ source: 
+  1. https://doi.org/10.1186/s40537-024-00957-y?utm_source=chatgpt.com
+   
+  2. https://www.enisa.europa.eu/sites/default/files/2026-01/ENISA%20Threat%20Landscape%202025_v1.2.pdf?utm_source=chatgpt.com
+
+  3. https://www.cisa.gov/news-events/alerts/2024/04/15/joint-guidance-deploying-ai-systems-securely?utm_source=chatgpt.com
+
+
